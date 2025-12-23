@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahmoud nour</h1>
-<h3 align="center">I am a Data Scientist and also expanding my knowledge in IoT.</h3>
+<h3 align="center">I am Mahmoud Nour, a software engineer with a background in Data Science and AI, currently focusing on .NET and CRM through the ITI 9-Month Program.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudnour2003&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudnour2003" /> </p>
 
