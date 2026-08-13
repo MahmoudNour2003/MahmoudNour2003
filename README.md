@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahmoud nour</h1>
-<h3 align="center">I am Mahmoud Nour, a software engineer with a background in Data Science and AI, currently focusing on .NET and CRM through the ITI 9-Month Program.</h3>
+<h3 align="center">AI Engineer with a strong backend and software engineering background, experienced in building AI-powered applications and integrating LLMs, RAG, Agentic AI, and computer vision solutions into production-ready systems. Skilled in Python, Machine Learning, Deep Learning, and LLM application development, with strong backend expertise in C#, ASP.NET Core, Entity Framework Core, SQL Server, and REST APIs. Strong foundation in OOP, Clean Architecture, SOLID principles, design patterns, and Agile development, with a focus on building scalable, reliable, and maintainable AI systems.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudnour2003&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudnour2003" /> </p>
 
